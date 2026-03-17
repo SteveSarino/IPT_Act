@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "npm run build:css && tsc -b && vite build",
-    "build:css": "tailwindcss -i ./src/input.css -o ./public/css/style.css",
-    "watch:css": "tailwindcss -i ./src/input.css -o ./public/css/style.css --watch",
+    "build:css": "tailwindcss -i ./src/styles/tailwind.css -o ./src/assets/css/style.css",
+    "watch:css": "tailwindcss -i ./src/styles/tailwind.css -o ./src/assets/css/style.css --watch",
     "lint": "eslint .",
     "preview": "vite preview"
   },
