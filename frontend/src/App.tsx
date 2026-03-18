@@ -4,7 +4,7 @@ import StudentManager from './pages/StudentManager'
 import TeacherManager from './pages/TeacherManager'
 import CourseManager from './pages/CourseManager'
 import EnrollmentManager from './pages/EnrollmentManager'
-import { LayoutDashboard, Users, GraduationCap, BookOpen, ScrollText, CheckCircle, XCircle, AlertCircle } from 'lucide-react'
+import { LayoutDashboard, Users, GraduationCap, BookOpen, ScrollText, CheckCircle, AlertCircle } from 'lucide-react'
 
 type Entity = 'dashboard' | 'students' | 'teachers' | 'courses' | 'enrollments';
 
