@@ -45,7 +45,7 @@ function App() {
           <div className="p-2 bg-indigo-600 rounded-lg text-white shadow-lg shadow-indigo-500/30">
             <GraduationCap size={24} />
           </div>
-          <span className="text-xl font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">STEVE SAN</span>
+          <span className="text-xl font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">STEVEN'S UNIVERSITY</span>
         </div>
         
         <nav className="flex-1 p-4 space-y-1 overflow-y-auto">
